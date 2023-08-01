@@ -1,0 +1,13 @@
+@import "./utilidades/global.css";
+@import "./utilidades/cores.css";
+@import "./header/super-info.css";
+@import "./header/menu.css";
+@import "./introducao/intro.css";
+@import "./sobre/sobre.css";
+@import "./produtos/produtos.css";
+@import "./precos/precos.css";
+@import "./qualidade/qualidade.css";
+@import "./newsletter/newsletter.css";
+@import "./footer/footer.css";
+
+

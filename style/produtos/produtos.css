@@ -1,0 +1,37 @@
+.produtos {
+  max-width: 960px;
+  margin: 60px auto;
+}
+.produtos h1 {
+  font: 700 3rem/1 "Nunito", "sans-serif" ;
+  margin: 0 10px 60px 10px;
+}
+.produtos-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+}
+.produtos-item {
+flex: 1 1 175px;
+margin: 10px;
+}
+.produtos-item h2 {
+  font: 700 3rem/1 "Nunito", "sans-serif" ;
+  color: var(--cor-text-produtos);
+background: var(--cor-bg-produtos);
+padding: 60px 20px;
+}
+.purple{
+  border-top: 8px solid var(--cor-border-purple);
+  /* align-self: flex-end; */
+}
+.pink{
+  border-top: 8px solid var(--cor-border-pink);
+  /* align-self: center; */
+  order: 2;
+
+}
+.blue{
+  border-top: 8px solid var(--cor-border-blue);
+  /* align-self: flex-start; */
+}

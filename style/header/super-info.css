@@ -1,0 +1,18 @@
+.super-info-bg {
+  background-color: var(--cor-super-info);
+}
+.super-info p,
+a {
+  color: var(--cor-text-info);
+}
+.super-info {
+  max-width: 960px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding-top: 10px;
+}
+.super-info p, a {
+  margin: 0 10px 10px 10px ;
+}
