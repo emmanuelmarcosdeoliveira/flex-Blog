@@ -56,7 +56,6 @@
 🟡Flex-Container<br>
 🔵 Flex-itens<br>
 
->Aqui podemos ver os Modelos suas caracteristicas, valores e solicitar um orçamento atráves de um formulário, pois as biciletas são fabricadas sob Medida.
 
  <div align="center">
  <h2>📸 Imagens do Projeto verão web.</h2>
@@ -91,7 +90,7 @@
 <div>
 
 Para ter Acesso ao Projeto; clique no link Abaixo:  <br>
-> [Flex-Blog](https://bikcraft-woad.vercel.app/)
+> [Flex-Blog](https://flex-blog-one.vercel.app/)
 
 
 <div align='center'>
