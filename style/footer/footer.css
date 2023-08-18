@@ -2,14 +2,14 @@
   height: 200px;
   display: flex;
   align-items: center;
-  background-color: var(--cor-bg-menu);
+  background-color: var(--cor2);
 }
 
 .footer p {
   flex: 1;
   text-align: center;
   font: 700 2.25rem/1 "nunito", "sans-serif";
-  color: var(--cor-super-info);
+  color: var(--cor3);
 }
 @media (max-width: 600px) {
   .footer p {

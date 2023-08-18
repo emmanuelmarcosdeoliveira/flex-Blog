@@ -1,11 +1,16 @@
 * {
   box-sizing: border-box;
-  font-family: "Nunito",Arial, Helvetica, sans-serif;
-  color: var(--cor-padrao);
+  font-family: "Nunito", Arial, Helvetica, sans-serif;
+  color: var(--cor9);
   margin: 0px;
   padding: 0px;
 }
-h1, h2, p , ul , li, a {
+h1,
+h2,
+p,
+ul,
+li,
+a {
   margin: 0px;
   padding: 0px;
 }

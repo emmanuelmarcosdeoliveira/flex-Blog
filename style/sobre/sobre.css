@@ -12,13 +12,15 @@
   margin: 0 10px;
 }
 .sobre-info h1 {
-  font: 700 3rem/1;
-  margin-bottom: .5rem;
+ font-size: 3rem;
+ font-weight: 700;
+ line-height: 1.1;
+  margin-bottom: 0.5rem;
 }
 .sobre-info p {
-  font: 400 1.25rem/1.5;
+  font: 400 1.25rem/1.5 'Nunito' ,sans-serif;
   margin-bottom: 1rem;
-  color: var(--cor-text-sobre);
+  color: var(--cor9);
 }
 .sobre-img {
   flex: 1 1 160px;

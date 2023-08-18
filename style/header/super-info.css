@@ -1,9 +1,9 @@
 .super-info-bg {
-  background-color: var(--cor-super-info);
+  background-color: var(--cor3);
 }
 .super-info p,
 a {
-  color: var(--cor-text-info);
+  color: var(--cor0);
 }
 .super-info {
   max-width: 960px;
@@ -13,6 +13,7 @@ a {
   flex-wrap: wrap;
   padding-top: 10px;
 }
-.super-info p, a {
-  margin: 0 10px 10px 10px ;
+.super-info p,
+a {
+  margin: 0 10px 10px 10px;
 }
