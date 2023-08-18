@@ -3,7 +3,7 @@
   margin: 60px auto;
 }
 .produtos h1 {
-  font: 700 3rem/1 "Nunito", "sans-serif" ;
+  font: 700 3rem/1 "Nunito", "sans-serif";
   margin: 0 10px 60px 10px;
 }
 .produtos-container {
@@ -12,26 +12,25 @@
   align-items: flex-end;
 }
 .produtos-item {
-flex: 1 1 175px;
-margin: 10px;
+  flex: 1 1 175px;
+  margin: 10px;
 }
 .produtos-item h2 {
-  font: 700 3rem/1 "Nunito", "sans-serif" ;
-  color: var(--cor-text-produtos);
-background: var(--cor-bg-produtos);
-padding: 60px 20px;
+  font: 700 3rem/1 "Nunito", "sans-serif";
+  color: var(--cor5);
+  background: var(--cor1);
+  padding: 60px 20px;
 }
-.purple{
-  border-top: 8px solid var(--cor-border-purple);
+.purple {
+  border-top: 8px solid var(--cor6);
   /* align-self: flex-end; */
 }
-.pink{
-  border-top: 8px solid var(--cor-border-pink);
+.pink {
+  border-top: 8px solid var(--cor7);
   /* align-self: center; */
   order: 2;
-
 }
-.blue{
-  border-top: 8px solid var(--cor-border-blue);
+.blue {
+  border-top: 8px solid var(--cor8);
   /* align-self: flex-start; */
 }
